@@ -82,6 +82,16 @@ button {
     margin: auto;
 }
 
+
+.section__bg {
+    background-image: url("https://raw.githubusercontent.com/sungkyung-park/gomanager/main/img/chatbot.jpg");
+    background-size: cover;
+    background-position: center center;
+    width: 100%;
+    height: auto; /* 기본 높이 설정 */
+    padding: 5% 0;
+}
+
 /* Typograph */
 h1 {
     color: var(--color-black);
