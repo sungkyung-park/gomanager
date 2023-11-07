@@ -95,7 +95,7 @@ button {
 /* Typograph */
 h1 {
     color: var(--color-black);
-    font-size:var(--font-large);
+    font-size:var(--font-medium);
     font-weight: var(--weight-bold);
     margin: 36px 0;
 
@@ -111,7 +111,7 @@ h2 {
 h4 {
     color: var(--color-black);
     font-size: var(--font-regular);
-    font-weight: var(--weight-bold);
+    font-weight: var(--weight-regular);
     margin: 18px 0;
 }
 
@@ -464,15 +464,7 @@ p {
         align-items: center;
     }
 
-    .feature__title {
-        font-size: var(--font-small);
-    }
-
     .contentbox {
-        margin-bottom: 60px;
-    }
-
-    .teammate {
         margin-bottom: 60px;
     }
 
